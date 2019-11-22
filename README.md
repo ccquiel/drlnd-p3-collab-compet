@@ -7,7 +7,7 @@
 # Project 3: Collaboration and Competition
 
 __This is a report of the corresponding project for Udacity's Deep Reinforcement Learning Nanodegree.__
-https://github.com/udacity/deep-reinforcement-learning/tree/master/p2_continuous-control
+https://github.com/udacity/deep-reinforcement-learning/tree/master/p3_collab-compet
 
 ### Introduction
 
